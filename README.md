@@ -4,7 +4,7 @@ This repo extends [DDColor](https://github.com/piddnad/DDColor) to video by inje
 
 ## Results: Automatic Video Colorization
 We achieved the following results using 75% fewer training iterations (4x less) than the original paper.
-<video src="assets/result_AVC.mp4" controls autoplay loop muted style="max-width: 100%;"></video>
+<video src="./assets/result_AVC.mp4" controls autoplay loop muted style="max-width: 100%;"></video>
 
 
 ## Setup
