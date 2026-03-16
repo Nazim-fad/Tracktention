@@ -2,6 +2,10 @@
 
 This repo extends [DDColor](https://github.com/piddnad/DDColor) to video by injecting **Tracktention** modules into the DDColor backbone. Tracktention uses point tracks (computed with [CoTracker3](https://github.com/facebookresearch/co-tracker)) to propagate color information across frames, improving temporal consistency without any post-processing.
 
+## Results: Automatic Video Colorization
+We achieved the following results using 75% fewer training iterations (4x less) than the original paper.
+
+
 ## Setup
 
 Clone the repo with submodules and install dependencies:
